@@ -1,0 +1,17 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "a MEAN based contact list app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "THomas E Cowern",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongojs": "^2.4.1"
+  }
+}

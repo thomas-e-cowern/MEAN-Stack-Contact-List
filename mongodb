@@ -1,0 +1,1 @@
+db.contactlist.insert({name:'Bill',email:'Bill@test.com',number:'777-44-4444'})
